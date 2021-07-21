@@ -9,4 +9,4 @@ describe('Project class', () => {
   it('Should create a project', () => {
     expect(typeof todo).toBe('object');
   });
-})
+});
